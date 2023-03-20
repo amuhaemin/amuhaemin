@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @amuhaemin
 - 👀 I’m a gamer!
-- 🌱 I’m currently learning HTML, CSS, and Angular 
+- 🌱 Preferred frontend Framework is Angular, but not limited to.
+- 🌱 Preferred backend Framework is ExpressJS, and also not limited to it.
+- ✔️ DONE Project using Laravel, Angular & ExpressJS. 
 - 💞️ I’m looking to collaborate on a project or have a cup of coffee on front end topics
 - 📫 Reach me at amuhaemin55@gmail.com
 
